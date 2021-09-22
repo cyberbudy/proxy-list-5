@@ -9,7 +9,7 @@ sources.proxy11_com: `Success`
 sources.proxyscan_io: `Success`  
 sources.proxyscrape_com: `Success`  
 
-Total proxies: `5782`
+Total proxies: `5736`
 
 ## Source
 [Proxy Checker](https://checkerproxy.net)  
