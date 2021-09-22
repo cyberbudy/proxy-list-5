@@ -7,9 +7,9 @@ sources.geonode_com: `Success`
 sources.proxy_list_download: `Success`  
 sources.proxy11_com: `Success`  
 sources.proxyscan_io: `Success`  
-sources.proxyscrape_com: `Success`  
+sources.proxyscrape_com: `Failed`  
 
-Total proxies: `5904`
+Total proxies: `5871`
 
 ## Source
 [Proxy Checker](https://checkerproxy.net)  

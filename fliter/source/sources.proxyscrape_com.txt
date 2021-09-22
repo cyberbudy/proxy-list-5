@@ -1,9 +1,0 @@
-<p>The server is temporarily unable to service your
-<h1>Service Unavailable</h1>
-request due to maintenance downtime or capacity
-<title>503 Service Unavailable</title>
-<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML 2.0//EN">
-<html><head>
-problems. Please try again later.</p>
-</body></html>
-</head><body>
