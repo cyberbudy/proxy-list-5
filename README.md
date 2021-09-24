@@ -4,13 +4,13 @@ HTTP/HTTPs proxies, update every 15 minutes.
 ## Status
 checkerproxy_net: `Failed`  
 free_proxy_list_net: `Success`  
-geonode_com: `Success`  
+geonode_com: `Failed`  
 proxy_list_download: `Success`  
 proxy11_com: `Success`  
 proxyscan_io: `Success`  
 proxyscrape_com: `Success`  
 
-Total proxies: `1274`
+Total proxies: `1261`
 
 ## Source
 [Proxy Checker](https://checkerproxy.net)  
