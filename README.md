@@ -6,10 +6,10 @@ sources.checkerproxy_net: `Failed`
 sources.geonode_com: `Success`  
 sources.proxy_list_download: `Success`  
 sources.proxy11_com: `Success`  
-sources.proxyscan_io: `Failed`  
+sources.proxyscan_io: `Success`  
 sources.proxyscrape_com: `Success`  
 
-Total proxies: `1011`
+Total proxies: `889`
 
 ## Source
 [Proxy Checker](https://checkerproxy.net)  
