@@ -10,7 +10,7 @@ proxy11_com: `Success`
 proxyscan_io: `Success`  
 proxyscrape_com: `Success`  
 
-Total proxies: `7036`
+Total proxies: `6961`
 
 ## Source
 [Proxy Checker](https://checkerproxy.net)  
