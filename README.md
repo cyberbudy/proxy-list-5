@@ -1,5 +1,5 @@
 # proxylist
-HTTP/HTTPs proxies, update every 15 minutes.
+HTTP/HTTPS proxies, update every 15 minutes.
 
 ## Status
 checkerproxy_net: `Success`  
@@ -9,8 +9,9 @@ proxy_list_download: `Success`
 proxy11_com: `Success`  
 proxyscan_io: `Success`  
 proxyscrape_com: `Success`  
+last_update: `Success`  
 
-Total proxies: `6929`
+Total proxies: `7243`
 
 ## Source
 [Proxy Checker](https://checkerproxy.net)  
