@@ -11,7 +11,7 @@ proxyscan_io: `Success`
 proxyscrape_com: `Success`  
 last_update: `Success`  
 
-Total proxies: `7830`
+Total proxies: `7943`
 
 ## Source
 [Proxy Checker](https://checkerproxy.net)  
