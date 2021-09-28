@@ -9,9 +9,9 @@ proxy_list_download: `Success`
 proxy11_com: `Success`  
 proxyscan_io: `Success`  
 proxyscrape_com: `Success`  
-last_update: `Success`  
+last_update: `Failed`  
 
-Total proxies: `9463`
+Total proxies: `7596`
 
 ## Source
 [Proxy Checker](https://checkerproxy.net)  
